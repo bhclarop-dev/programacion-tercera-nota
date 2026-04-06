@@ -1,6 +1,7 @@
+package unidad1;
 import java.util.Scanner;
 
-public class parcial1 {
+public class ParcialDePractica {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese el número 1 ");

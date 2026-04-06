@@ -1,6 +1,7 @@
+package unidad1;
 import java.util.Scanner;
 
-public class factorial {
+public class Factorial {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número: ");

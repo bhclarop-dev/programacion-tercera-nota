@@ -1,6 +1,7 @@
+package unidad1;
 import java.util.Scanner;
 
-public class tres_opciones {
+public class TresOpciones {
     public static void main(String[] args) throws Exception {
          Scanner scanner = new Scanner(System.in);
         System.out.println("1. Saludar");

@@ -1,6 +1,7 @@
+package unidad1;
 import java.util.Scanner;
 
-public class entrada_salida {
+public class EntradaSalida {
     public static void main(String[] args) throws Exception {
          Scanner scanner = new Scanner(System.in);
 

@@ -1,4 +1,5 @@
-public class while_1al10 {
+package unidad1;
+public class While1Al10 {
     public static void main(String[] args) throws Exception {
         int i= 1;
         while (i<=10) {

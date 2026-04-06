@@ -1,4 +1,5 @@
-public class punto2 {
+package unidad1;
+public class Punto2 {
     public static void main(String[] args) throws Exception {
         int cantidadFija = 1000;
         final int semanasMes = 4;

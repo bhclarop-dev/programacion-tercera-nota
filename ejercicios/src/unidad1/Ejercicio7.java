@@ -1,5 +1,6 @@
+package unidad1;
 import java.util.Scanner;
-public class ejercicio7 {
+public class Ejercicio7 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int [] A = new int[5];

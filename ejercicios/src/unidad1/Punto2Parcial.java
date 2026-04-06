@@ -1,6 +1,7 @@
+package unidad1;
 import java.util.Scanner;
 
-public class punto2_parcial {
+public class Punto2Parcial {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese nota 1 ");

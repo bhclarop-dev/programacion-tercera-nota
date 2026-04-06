@@ -1,6 +1,7 @@
+package unidad1;
 import java.util.Scanner;
 
-public class mayor_de_tres {
+public class MayorDeTres {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese el numero 1 ");
