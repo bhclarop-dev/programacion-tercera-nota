@@ -1,5 +1,5 @@
 package unidad1;
-public class App {
+public class Pares1Al100 {
     public static void main(String[] args) throws Exception {
          int contador = 0;
 
